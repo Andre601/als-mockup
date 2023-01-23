@@ -1,0 +1,11 @@
+name: ASLMockup
+author: Andre601
+description: A mockup plugin for the API of AdvancedServerList
+version: '${project.version}'
+
+api-version: 1.19
+
+depend:
+  - AdvancedServerList
+
+main: ch.andre601.aslmockup.ASLMockup
