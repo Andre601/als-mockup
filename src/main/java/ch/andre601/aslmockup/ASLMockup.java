@@ -10,5 +10,7 @@ public class ASLMockup extends JavaPlugin{
         AdvancedServerListAPI api = AdvancedServerListAPI.get();
         
         api.addPlaceholderProvider(new MyPlaceholders());
+        
+        new ASLEventListener(this);
     }
 }

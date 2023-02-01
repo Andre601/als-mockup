@@ -1,6 +1,6 @@
 # AdvancedServerList Mockup
 
-This is a simple mockup plugin to showcase how you can hook into the new API of [AdvancedServerList] to provide your own custom placeholders to parse.
+This is a simple mockup plugin to showcase how you can hook into the new API of [AdvancedServerList] to provide your own custom placeholders to parse or listen for specific events.
 
 Documentation regarding the API can be found [here][api-docs].
 
